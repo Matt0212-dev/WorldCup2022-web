@@ -1,5 +1,5 @@
-# Full Stack Challenge | Front-End
-Site de palpites para os jogos da Copa do Mundo 2022 (o famoso bolão)
+# Full Stack Challenge | Front-End 👨‍💻
+Site de palpites para os jogos da Copa do Mundo 2022 ⚽ (o famoso bolão)
 
 # Screenshots
 <div align='center'>
@@ -20,7 +20,7 @@ Site de palpites para os jogos da Copa do Mundo 2022 (o famoso bolão)
 </div>
           
       
-# Screenshots
+# Stack utilizada
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
       
