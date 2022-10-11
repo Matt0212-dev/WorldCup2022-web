@@ -1,8 +1,8 @@
 # Full Stack Challenge | Front-End
-
 Site de palpites para os jogos da Copa do Mundo 2022 (o famoso bolão)
 
-### Screenshots
+
+# Screenshots
 <div align='center'>
    <h3>Home ⬇<h3/>
    <img align="center" alt="Home" height="500"  src="screenshots/home.png">  
@@ -19,3 +19,8 @@ Site de palpites para os jogos da Copa do Mundo 2022 (o famoso bolão)
    <h3>Profile ⬇<h3/>
    <img align="center" alt="Profile" height="500"  src="screenshots/profile.png"> 
 <div/>
+      
+# Stack utilizadas
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+      
